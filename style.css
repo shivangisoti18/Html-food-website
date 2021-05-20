@@ -1,0 +1,36 @@
+    html{
+        scroll-behavior:smooth;
+    }
+    
+    
+    
+    body{
+    background: linear-gradient(45deg,lightgreen,coral,lightgreen);
+    font-family: serif;
+    text-align: center;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+h2{
+    background:linear-gradient( 45deg,rgb(145, 13, 13),black,red);
+    color:white;
+    padding:15px;
+    border-radius: 50%;
+    width: 800px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
+#1{
+
+    color:white;
+}
+
